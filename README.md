@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SOFI — Stories of First-Gen Indians
 
-## Getting Started
+> **Unite • Share • Inspire**
 
-First, run the development server:
+A premium, editorial-style website for a global movement documenting and celebrating the stories of first-generation Indians around the world — people who left home, built careers, navigated identity, balanced cultures, supported families, took risks, and created lives across different countries.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## What We're Building
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+SOFI is not a company website. It is a **movement**, a **digital magazine**, and a **cultural archive**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The goal is to make every first-generation Indian around the world feel **seen, understood, and inspired** to share their own story.
 
-## Learn More
+### The Mission
 
-To learn more about Next.js, take a look at the following resources:
+Millions of Indians have crossed oceans, cultures, and comfort zones to build lives abroad. They've navigated immigration systems, office politics in foreign languages, and midnight video calls to parents who are worlds away. These stories — of sacrifice, resilience, identity, and belonging — rarely make the headlines.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+SOFI exists to change that.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## What the Site Includes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Hero** — Full-viewport editorial landing with the headline *"Every First-Gen Indian Has A Story."*
+- **Marquee Quotes** — Rotating community quotes on a terracotta bar
+- **Story Wall** — Pinterest-style masonry grid of real community stories with hover animations
+- **Why SOFI** — Split-screen editorial section with animated journey timeline and bento grid
+- **Global Map** — Interactive world map showing where first-gen Indians have settled, with city story counts and avatar cards
+- **Impact Metrics** — Animated counters: 300+ stories, 12+ cities, 8+ countries, 1000+ lives inspired
+- **Featured Stories** — Horizontal editorial carousel with snap scrolling
+- **Founder Section** — Deepika Sobti's story and why SOFI was started
+- **Share Your Story** — Emotionally-driven CTA linking to the submission form
+- **Socials** — LinkedIn and Instagram community cards
+- **Newsletter** — Minimal email capture
+- **Footer** — Dark footer with *"Unite. Share. Inspire."*
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Design Vision
+
+The site blends the aesthetics of Spotify Wrapped, Apple, A24, and high-end Gen Z editorial magazines.
+
+**Brand Colours**
+- Deep Terracotta: `#7A1F00`
+- Warm Ivory: `#F5EFE7`
+- Accent: `#C96A3A`
+- Background: `#FAF7F2`
+
+**Typography**
+- Headings: Playfair Display
+- Body: Inter
+- Quotes: Cormorant Garamond Italic
+
+---
+
+## Tech Stack
+
+- **Next.js 16** (App Router)
+- **TypeScript**
+- **Tailwind CSS**
+- **Framer Motion**
+- **react-simple-maps** (interactive global map)
+
+---
+
+## Share Your Story
+
+[✨ Submit your story here](https://docs.google.com/forms/d/e/1FAIpQLSdSBQooy4gCg5uB2eno8QLpyAIzbGXaeskRRRvP1EWx9zLHjg/viewform)
+
+Follow us: [LinkedIn](https://www.linkedin.com/company/stories-of-first-gen-indians/) · [Instagram](https://www.instagram.com/storiesoffirstgenindians/)
