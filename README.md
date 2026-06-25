@@ -4,7 +4,6 @@
 
 A premium, editorial-style website for a global movement documenting and celebrating the stories of first-generation Indians around the world — people who left home, built careers, navigated identity, balanced cultures, supported families, took risks, and created lives across different countries.
 
----
 
 ## What We're Building
 
@@ -18,7 +17,6 @@ Millions of Indians have crossed oceans, cultures, and comfort zones to build li
 
 SOFI exists to change that.
 
----
 
 ## What the Site Includes
 
@@ -35,7 +33,6 @@ SOFI exists to change that.
 - **Newsletter** — Minimal email capture
 - **Footer** — Dark footer with *"Unite. Share. Inspire."*
 
----
 
 ## Design Vision
 
@@ -52,7 +49,6 @@ The site blends the aesthetics of Spotify Wrapped, Apple, A24, and high-end Gen 
 - Body: Inter
 - Quotes: Cormorant Garamond Italic
 
----
 
 ## Tech Stack
 
@@ -62,7 +58,6 @@ The site blends the aesthetics of Spotify Wrapped, Apple, A24, and high-end Gen 
 - **Framer Motion**
 - **react-simple-maps** (interactive global map)
 
----
 
 ## Share Your Story
 
