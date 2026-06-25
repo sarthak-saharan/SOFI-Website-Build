@@ -1,8 +1,8 @@
-# SOFI — Stories of First-Gen Indians
+# SOFI Stories of First-Gen Indians
 
 > **Unite • Share • Inspire**
 
-A premium, editorial-style website for a global movement documenting and celebrating the stories of first-generation Indians around the world — people who left home, built careers, navigated identity, balanced cultures, supported families, took risks, and created lives across different countries.
+A premium, editorial-style website for a global movement documenting and celebrating the stories of first-generation Indians around the world people who left home, built careers, navigated identity, balanced cultures, supported families, took risks, and created lives across different countries.
 
 
 ## What We're Building
@@ -13,25 +13,25 @@ The goal is to make every first-generation Indian around the world feel **seen, 
 
 ### The Mission
 
-Millions of Indians have crossed oceans, cultures, and comfort zones to build lives abroad. They've navigated immigration systems, office politics in foreign languages, and midnight video calls to parents who are worlds away. These stories — of sacrifice, resilience, identity, and belonging — rarely make the headlines.
+Millions of Indians have crossed oceans, cultures, and comfort zones to build lives abroad. They've navigated immigration systems, office politics in foreign languages, and midnight video calls to parents who are worlds away. These stories of sacrifice, resilience, identity, and belonging rarely make the headlines.
 
 SOFI exists to change that.
 
 
 ## What the Site Includes
 
-- **Hero** — Full-viewport editorial landing with the headline *"Every First-Gen Indian Has A Story."*
-- **Marquee Quotes** — Rotating community quotes on a terracotta bar
-- **Story Wall** — Pinterest-style masonry grid of real community stories with hover animations
-- **Why SOFI** — Split-screen editorial section with animated journey timeline and bento grid
-- **Global Map** — Interactive world map showing where first-gen Indians have settled, with city story counts and avatar cards
-- **Impact Metrics** — Animated counters: 300+ stories, 12+ cities, 8+ countries, 1000+ lives inspired
-- **Featured Stories** — Horizontal editorial carousel with snap scrolling
-- **Founder Section** — Deepika Sobti's story and why SOFI was started
-- **Share Your Story** — Emotionally-driven CTA linking to the submission form
-- **Socials** — LinkedIn and Instagram community cards
-- **Newsletter** — Minimal email capture
-- **Footer** — Dark footer with *"Unite. Share. Inspire."*
+- **Hero** Full-viewport editorial landing with the headline *"Every First-Gen Indian Has A Story."*
+- **Marquee Quotes** Rotating community quotes on a terracotta bar
+- **Story Wall** Pinterest-style masonry grid of real community stories with hover animations
+- **Why SOFI** Split-screen editorial section with animated journey timeline and bento grid
+- **Global Map** Interactive world map showing where first-gen Indians have settled, with city story counts and avatar cards
+- **Impact Metrics** Animated counters: 300+ stories, 12+ cities, 8+ countries, 1000+ lives inspired
+- **Featured Stories** Horizontal editorial carousel with snap scrolling
+- **Founder Section** Deepika Sobti's story and why SOFI was started
+- **Share Your Story** Emotionally-driven CTA linking to the submission form
+- **Socials** LinkedIn and Instagram community cards
+- **Newsletter** Minimal email capture
+- **Footer** Dark footer with *"Unite. Share. Inspire."*
 
 
 ## Design Vision
